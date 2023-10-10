@@ -10,7 +10,8 @@
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.2.1",
-    "styled-components": "^5.3.10"
+    "styled-components": "^5.3.10",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "@faker-js/faker": "^8.0.2",
